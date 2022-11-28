@@ -20,6 +20,6 @@
   },
   "main": "./build/Release/lpt",
   "dependencies": {
-    "nan": "^2.8.0"
+    "nan": "^2.15.0"
   }
 }
